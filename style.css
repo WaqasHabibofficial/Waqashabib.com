@@ -1,0 +1,48 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background-color: #fff;
+  color: #222;
+}
+
+.hero {
+  background: url('https://images.unsplash.com/photo-1580598489032-6643e01c0b3e') no-repeat center center/cover;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 48px;
+}
+
+.hero .cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #000;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  margin: 10px 0;
+}
+
+footer {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
